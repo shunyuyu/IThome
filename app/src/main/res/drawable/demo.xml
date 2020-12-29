@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="0.5dp"
+                android:top="0dp" />
+            <solid android:color="#1AD6D6D6" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="1.5dp"
+                android:top="0dp" />
+            <solid android:color="#33D3D3D3" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="1.5dp"
+                android:top="0dp" />
+            <solid android:color="#0D7A7A7A" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="0.5dp"
+                android:top="0dp" />
+            <solid android:color="#0D6C6B6B" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="1.5dp"
+                android:top="0dp" />
+            <solid android:color="#10FFFFFF" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="0.5dp"
+                android:top="0dp" />
+            <solid android:color="#1A606060" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:bottom="1dp"
+                android:top="0dp" />
+            <solid android:color="#1A6E6E6E" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="#fafafa" />
+        </shape>
+    </item>
+
+</layer-list>
